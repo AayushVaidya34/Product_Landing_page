@@ -1,14 +1,26 @@
 # Product_Landing_page
-Responsive Web Design Project
-from Freecodecamp Responsive Web Design Curriculum
+# Product Landing Page
+
+## Responsive Web Design Project
+
+from **[Freecodecamp](https://www.freecodecamp.org/)** Responsive Web Design Curriculum
 
 hopefully this solution can help 😊
 
-build with bootstrap
+build with bootstrap 
 
-DEMO or check on Codepen
+-------------------
 
-Cheers Up!
-Happy Developing and Learning 💪
+**[DEMO](https://indrijunanda.github.io/productlandingpage-fcc/)** or check on **[Codepen](https://codepen.io/indrijunanda/pen/zgLzKV)**
+
+
+
+-------------------
+### Cheers Up!
+
+*Happy Developing and Learning* 💪
+
+
 
 Regards 😁😁
+
