@@ -1,5 +1,4 @@
 # Product_Landing_page
-# Product Landing Page
 
 ## Responsive Web Design Project
 
