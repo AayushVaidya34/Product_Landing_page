@@ -11,6 +11,3 @@ A simple and responsive product landing page built using HTML, CSS, and JavaScri
 ## Technologies Used
 - HTML
 - CSS
-
-## Author
-Aayush Vaidya
